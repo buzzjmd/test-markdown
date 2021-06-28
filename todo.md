@@ -6,5 +6,5 @@ My Todo
 
 Hierarchical Todo
 - [ ] A task
-  - [ ] A sub-task
+  - [x] A sub-task
   - [x] A sub-task that is done
