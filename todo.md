@@ -2,5 +2,5 @@
 
 My Todo
 - [] Create the todo file
-- [] Try standard todo
+- [x] Try standard todo
 
